@@ -7,3 +7,4 @@ groq==0.4.2
 langchain-groq==0.0.1
 pip==24.2
 python-dotenv
+psycopg2
