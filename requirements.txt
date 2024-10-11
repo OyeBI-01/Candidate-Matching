@@ -8,3 +8,4 @@ langchain-groq==0.0.1
 pip==24.2
 python-dotenv
 psycopg2
+SQLAlchemy
