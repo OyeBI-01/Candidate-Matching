@@ -41,7 +41,7 @@ Usage
 
 •Filter and Export: Use filters to refine results and export data as needed
 
-Contributions
+## Contributions
 
 Contributions are welcome! If you'd like to improve the project or report issues:
 
